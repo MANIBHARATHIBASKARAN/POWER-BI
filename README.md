@@ -36,6 +36,3 @@ This project highlights how **Power BI** can be used to transform raw sales data
 ---
 ![POWER BI](https://github.com/user-attachments/assets/2dc6fa62-24e0-4e2f-906f-73cef481c7b6)
 
-
-
-![POWER BI](https://github.com/user-attachments/assets/0da2adeb-fc10-4dce-9226-67608d3f4416)
