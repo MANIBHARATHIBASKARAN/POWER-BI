@@ -76,3 +76,5 @@ This project focuses on analyzing match data by importing an Excel sheet into **
 This project showcases how **Power BI** can transform raw match data into meaningful insights, helping to analyze team performances, locations, and standout players.
 
 
+![POWER BI 3](https://github.com/user-attachments/assets/a970212a-c103-45f1-a21c-eff3b579b6a1)
+
